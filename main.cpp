@@ -59,85 +59,88 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: dog
+//  action 1: the dog barks
+dog.bark();
+//  action 2: the dog sleeps
+dog.isSleeping ();
+//  action 3: the dog runs
+dog.isRunning();
  
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: computer
+//  action 1: the computer calculates
+computer.calculate();
+//  action 2: the computer communicates
+computer.communicate();
+//  action 3: the computer records
+computer.record();
  
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: eye 
+//  action 1:the eye focuses
+eye.focus();
+//  action 2: the eye closes
+eye.close();
+//  action 3: the eye blinks
+eye.blink();
  
-//  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  4) 
+//  Noun: speaker cone
+//  action 1: the speaker cone pushes
+speakerCone.push();
+//  action 2: the speaker cone pulls
+speakerCone.pull();
+//  action 3: the speaker cone vibrates
+speakerCone.vibrate();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: sun
+//  action 1: the sun burns
+sun.burn();
+//  action 2: the sun heats
+sun.heat();
+//  action 3: the sun shoots rays
+sun.shootRays();
+//  6) 
+//  Noun: printer
+//  action 1: the printer prints
+printer.print();
+//  action 2: the printer scans
+printer.scan();
+//  action 3: the printer copies
+printer.copy(); 
+//  7) 
+//  Noun: hard drive
+//  action 1: the hard drive stores
+hardDrive.store();
+//  action 2: the hard drive writes
+hardDrive.writes();
+//  action 3: the hard drive reads
+hardDrive.reads(); 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: fire
+//  action 1: fire burns
+fire.burn();
+//  action 2: fire heats
+fire.heat();
+//  action 3: fire illuminates
+fire.illuminate();
+//  9) 
+//  Noun: ball
+//  action 1: the ball bounces
+ball.bounce();
+//  action 2: the ball rolls
+ball.roll();
+//  action 3: the ball deflates
+ball.deflate();
+//  10) 
+//  Noun: phone
+//  action 1: the phone rings
+phone.ring();
+//  action 2: the phone texts
+phone.text();
+//  action 3: the phone takes pictures
+phone.takePicture();
 
 
 #endif
